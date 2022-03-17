@@ -4,9 +4,10 @@ Lab resources for CE888 - class of 2020/21
 
 Writing by supasun khumpraphan
 
-not done lab 3(dont know final choice) 6 7 8 9
+8 9
 
-
+not done lab 3(very hard)
 lab 5
+lab6(OPTIONAL choice)
 
 
