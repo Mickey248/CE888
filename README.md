@@ -7,7 +7,7 @@ Writing by supasun khumpraphan
 8 9
 
 not done lab 3(very hard)
-lab 5
+lab 5(q7 == 66.5) <==>
 lab6(OPTIONAL choice)
 
 
