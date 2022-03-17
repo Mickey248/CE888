@@ -10,4 +10,6 @@ not done lab 3(very hard)
 lab 5(q7 == 66.5) <==>
 lab6(OPTIONAL choice)
 
+1,2,4 done
+
 
