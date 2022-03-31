@@ -17,6 +17,3 @@ cannot load file vgg16_model_fineTuning.h5 and vgg16_model_featureExtraction.h5 
 because this is larger than github reccommend maximum file size of 50.00 MB
 
 
-
-
-
